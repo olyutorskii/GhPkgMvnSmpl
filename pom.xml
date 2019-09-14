@@ -10,7 +10,7 @@
 
     <groupId>io.github.olyutorskii</groupId>
     <artifactId>GhPkgMvnSmpl</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.1</version>
 
     <name>GhPkgMvnSmpl</name>
     <url>https://github.com/olyutorskii/GhPkgMvnSmpl</url>

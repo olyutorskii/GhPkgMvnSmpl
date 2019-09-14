@@ -5,7 +5,7 @@
 ## What is GhPkgMvnSmpl ? ##
 
 * **GhPkgMvnSmpl** is a sample Java Maven Project
-with deploying GitHub Package Registry.
+ for deploying to GitHub Package Registry.
 
 
 ## What is GitHub Package Registry ? ##
@@ -18,7 +18,7 @@ with deploying GitHub Package Registry.
 
 ## How to build ##
 
-* DoubDabC needs to use [Maven 3.3.9+](https://maven.apache.org/)
+* GhPkgMvnSmpl needs to use [Maven 3.3.9+](https://maven.apache.org/)
 and JDK 1.8+ to be built.
 
 

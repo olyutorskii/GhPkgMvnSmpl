@@ -1,0 +1,12 @@
+### Git attributes  https://git-scm.com/docs/gitattributes
+
+* text=auto
+
+*.java text diff=java
+
+*.xml text eol=lf
+
+*.txt text
+*.md text
+
+### EOF ###
